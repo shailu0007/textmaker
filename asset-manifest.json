@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textmaker/static/css/main.073c9b0a.css",
+    "main.js": "/textmaker/static/js/main.191268fb.js",
+    "static/js/787.0edbcda9.chunk.js": "/textmaker/static/js/787.0edbcda9.chunk.js",
+    "index.html": "/textmaker/index.html",
+    "main.073c9b0a.css.map": "/textmaker/static/css/main.073c9b0a.css.map",
+    "main.191268fb.js.map": "/textmaker/static/js/main.191268fb.js.map",
+    "787.0edbcda9.chunk.js.map": "/textmaker/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.191268fb.js"
+  ]
+}
